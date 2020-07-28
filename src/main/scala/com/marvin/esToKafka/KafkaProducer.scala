@@ -3,7 +3,7 @@ package com.marvin.esToKafka
 import java.util.Properties
 import com.marvin.esToKafka.util.Config
 import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}
-
+哈哈哈马志彬新增
 /*
 * @author: marvin
 * @software: IntelliJ IDEA
