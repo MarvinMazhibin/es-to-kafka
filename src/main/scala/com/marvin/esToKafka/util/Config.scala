@@ -2,7 +2,7 @@ package com.marvin.esToKafka.util
 
 import java.util.Properties
 import org.slf4j.LoggerFactory
-哈哈哈新增一行
+
 /*
 * @author: marvin
 * @software: IntelliJ IDEA
